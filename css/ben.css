@@ -1,0 +1,86 @@
+* {padding: 0; margin: 0}
+
+body {
+	background: #427D9D; margin-top: 25px;
+}
+
+header {
+	width: 900px; background: #164863; padding: 25px; 
+	margin: auto; text-align: center; color: #DDF2FD;
+}
+
+menu {width: 900px; background: #9BBEC8; margin: auto;
+      padding: 25px;}
+
+menu a {
+	color: #4D869C; text-decoration: none;
+	margin-right: 20px;
+}
+
+menu a : hover {
+	color: #7AB2B2; text-decoration: underline;
+}
+
+article {
+	width: 900px; background: #CDE8E5;
+	margin: auto; padding: 25px;
+	text-align: justify;
+}
+
+article img {
+	float: left;
+	width: 350px; height: 300px;
+	margin: 0 0 0 0;
+}
+
+article h1 {
+	margin: 0 0 15px 0;
+}
+
+article p {
+	margin: 0 0 25px 0;
+}
+
+article h2 {
+	margin: auto;
+	text-align: center;
+	color: #7AB2B2;
+}
+
+article h4 {
+	width: 800px; background: #7AB2B2; margin: auto;
+	padding: 25px; text-align: center;
+	margin: 25px 40px 20px 30px;
+	color: white;
+}
+
+article img {
+	float: right; width: 250px; height: 135px;
+	margin: auto;
+}
+
+article h5 {
+	width: 560px; background: #CDE8E5;
+	padding: 30px;
+	color: black;
+}
+
+article a : hover {
+	color: #4D869C;
+}
+
+body h3 {
+	width: 900px; background: #4D869C; padding: 25px;
+	margin: auto; text-align: center; color: white;
+}
+
+footer {
+	width: 900px; background: black;
+	margin: auto;
+	padding: 25px;
+	text-align: center;
+}
+
+footer p {
+	color: white;
+}
